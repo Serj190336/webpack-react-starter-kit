@@ -9,7 +9,7 @@
 
 Lightweigth kit with musthave features for frontend development.
 
-Alternative [version](https://github.com/Serj190336/webpack-react-eslint-kit "webpack-react-eslint-kit") with ESLint support for React and ES+
+Alternative [version](https://github.com/Serj190336/webpack-react-eslint-kit "webpack-react-eslint-kit") with ESLint support for React and ES6+
 
 ### Installation
 
